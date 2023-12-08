@@ -80,4 +80,4 @@ def organize_photos(src_folder, dest_folder_base):
             log_file.writelines("%s\n" % line for line in duplicate_log)
 
 # Replace 'src_directory_path', 'dest_directory_path', and 'log_file_path' with the appropriate paths
-organize_photos('/Volumes/PortableSSD/photo_archive/archive_01', '/Volumes/home/Medias_backup/photo_organized')
+organize_photos('/Users/lcraaaa/Desktop/', '/Users/lcraaaa/Desktop/photo_organized')

@@ -1,5 +1,5 @@
 
-# README for Media Organizing and Log Processing Scripts
+# README for My Media Organizing and Log Processing Scripts
 
 ## Overview
 
